@@ -71,7 +71,6 @@ Aplikasi ini memiliki sistem login sederhana untuk proteksi akses admin. Gunakan
 > **Catatan**: Anda dapat mengubah password dan detail toko pada menu **Profil & Pengaturan**.
 
 ## 📸 Screenshots (Preview)
-*(Tambahkan screenshot aplikasi Anda di sini. Letakkan file gambar di folder /screenshots dan link di bawah ini)*
 
 | Login Screen | Dashboard | POS / Kasir |
 | :---: | :---: | :---: |
