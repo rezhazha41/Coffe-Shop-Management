@@ -1,0 +1,37 @@
+# Gradle files
+.gradle/
+build/
+app/build/
+
+# Local configuration file (sdk.path, etc)
+local.properties
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+.settings/
+.vscode/
+
+# Build artifacts
+*.apk
+*.aab
+*.dex
+*.class
+
+# Memory dumps
+*.hprof
+
+# Keystore files
+*.jks
+*.keystore
+*.p12
+*.key
+
+# Google Services (if applicable)
+google-services.json
+
+# OS specific
+.DS_Store
+Thumbs.db
